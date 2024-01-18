@@ -11,3 +11,5 @@ document.getElementById("stop").addEventListener("click", function () {
   // Stop printing by clearing the interval
   clearInterval(intervalId);
 });
+
+// Test comment just to check git commands
